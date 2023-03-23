@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
+  <img src="https://telegra.ph/file/9584b19633bf5b31faa12.jpg">
 </p>
 
-<h4><p align="center"> EMIKO ROBOT </p></h4>
+<h4><p align="center"> SHIV ROBOT </p></h4>
 
-<p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">Shiv Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
 <a href="https://t.me/Aikarobot"> <img src="https://img.shields.io/badge/Emiko-Robot-blue?&logo=telegram" alt="Emiko on Telegram" /> </a><br>
@@ -25,7 +25,7 @@
 - You can just change the name of github on deploy link and done, the repos able to deploy on heroku.
 - Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://youtu.be/GMaYMYhf_Vk)
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/kennedy-ex/EmikoRobot"> <img 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Killerboyxd/Shiv-Robot"> <img 
 src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 
@@ -38,9 +38,9 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ### Support
 <p>
-<a href="https://t.me/usernot4found"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
-<a href="https://t.me/EmikoSupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
-<a href="https://t.me/KennedyProject"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
+<a href="https://t.me/do_dil_ek_jaan143"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
+<a href="https://t.me/RONNY_KI_DUNIYA"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
+<a href="https://t.me/ll_SABKA_BHAI_KILLER_ll"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
 ## Credit 
