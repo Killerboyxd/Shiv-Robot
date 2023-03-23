@@ -1,5 +1,5 @@
 {
-      "name": "Emiko Robot",
+      "name": "Shiv Robot",
       "description": "A Powerful Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "emikorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
+   "logo":    "https://telegra.ph/file/9584b19633bf5b31faa12.jpg",  
    "repository": "https://github.com/kennedy-ex/https://github.com/kennedy-ex/EmikoRobot",
    "addons": [
           {
